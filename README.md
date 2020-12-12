@@ -1,2 +1,2 @@
 # DataWhale_Pandas
-Pandas组队学习
+本仓库用于上传Pandas组队学习每日记录
